@@ -6,6 +6,6 @@
 
 - Install the markdown preview extension and learn the basics of the markdown language.
 
--Introduction to the Dart language and print statement.
+- Introduction to the Dart language and print statement.
 
 [Back](../README.md)
