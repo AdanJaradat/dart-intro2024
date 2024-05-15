@@ -2,7 +2,8 @@
 
 first class in dart
 
-| Class number | Title        | Link                        |
-| ------------ | ------------ | --------------------------- |
-| 1            | Installation | [ClickHere](./classes/class1.md) |
-| 2            | Datatype and Operator | [ClickHere](./classes/class1.md) |
+| Class number | Title                            | Link                             |
+| ------------ | -------------------------------- | -------------------------------- |
+| 1            | Installation                     | [ClickHere](./classes/class1.md) |
+| 2            | Datatype and Operator            | [ClickHere](./classes/class2.md) |
+| 3            | Control flow and input statement | [ClickHere](./classes/class3.md) |
