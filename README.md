@@ -9,3 +9,4 @@ first class in dart
 | 3            | Control flow and input statement | [ClickHere](./classes/class3.md) |
 | 4            | while,do-while and methods       | [ClickHere](./classes/class4.md) |
 | 5            | methods                          | [ClickHere](./classes/class5.md) |
+| 6            | methods                          | [ClickHere](./classes/class6.md) |

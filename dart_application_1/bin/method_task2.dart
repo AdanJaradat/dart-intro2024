@@ -19,7 +19,7 @@ void charCount() {
       newStr += count.toString() + str[i];
       i += count - 1;
     } else {
-      print(str[i]);
+      //print(str[i]);
       newStr += str[i];
     }
   }
