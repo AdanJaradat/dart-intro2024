@@ -10,3 +10,4 @@ first class in dart
 | 4            | while,do-while and methods       | [ClickHere](./classes/class4.md) |
 | 5            | methods                          | [ClickHere](./classes/class5.md) |
 | 6            | methods                          | [ClickHere](./classes/class6.md) |
+| 7            | OOP                              | [ClickHere](./classes/class7.md) |
